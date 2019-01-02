@@ -14,4 +14,20 @@
 
 7. [IBM HPO CLI](https://dataplatform.cloud.ibm.com/docs/content/analyze-data/ml_dlaas_cli_with_hpo.html)
 
-8.
+
+Data Cleaning in Python:
+
+1. [Book 1](https://learning.oreilly.com/library/view/mastering-python-for/9781784390150/ch01s03.html)
+2. [Real Python](https://realpython.com/python-data-cleaning-numpy-pandas/)
+3. [Blog](https://towardsdatascience.com/data-cleaning-with-python-and-pandas-detecting-missing-values-3e9c6ebcf78b)
+4. Python for data analysis book
+5. Data camp python data scientist track
+
+Data Cleaning in R:
+
+1. [Book](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
+2. [dplyr](https://jasonjwilliamsny.github.io/r-genomics-2/04-intro-to-dplyr-r.html)
+3. [dplyr 1](https://mgimond.github.io/ES218/Week03a.html)
+4. DataCamp R
+
+
