@@ -32,4 +32,7 @@ Data Cleaning in R:
 
 [Classification Metrics](https://medium.com/greyatom/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b)
 
+NLP
+
+1. https://nlpforhackers.io/
 
