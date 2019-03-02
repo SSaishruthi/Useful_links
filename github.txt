@@ -1,1 +1,22 @@
 
+Edit commit email address
+
+1. git remote show origin
+2. git remote remove origin
+3. git remote add origin (git URL)
+4. git remote add upstream (git URL)
+5. git fetch origin 
+6. git checkout (branch-name)
+7. git fetch upstream
+8. git rebase -i upstream/master
+   
+https://stackoverflow.com/questions/3042437/how-to-change-the-commit-author-for-one-specific-commit/28845565
+
+9. When it pauses:
+   git commit --amend --author="Author Name <email@address.com>"
+   
+10. git rebase --continue
+
+Do above steps whenever it stops.
+
+11. git push -f
