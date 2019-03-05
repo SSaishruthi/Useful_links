@@ -20,3 +20,5 @@ https://stackoverflow.com/questions/3042437/how-to-change-the-commit-author-for-
 Do above steps whenever it stops.
 
 11. git push -f
+
+12. Delete github ds store : find . -name .DS_Store -print0 | xargs -0 git rm -f --ignore-unmatch
