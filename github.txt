@@ -22,3 +22,14 @@ Do above steps whenever it stops.
 11. git push -f
 
 12. Delete github ds store : find . -name .DS_Store -print0 | xargs -0 git rm -f --ignore-unmatch
+
+13. Get email id :  git config --global user.email
+
+*Fork Update*
+
+git fetch upstream
+git checkout master
+git merge upstream/master
+git push origin master
+git pull upstream master
+git pull upstream master
