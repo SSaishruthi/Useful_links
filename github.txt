@@ -33,3 +33,20 @@ git merge upstream/master
 git push origin master
 git pull upstream master
 git pull upstream master
+
+
+** Git update new repo **
+rm -rf .git
+git init
+git add .
+git commit -m "Adding files for training"
+git remote add origin git@github.ibm.com:saishruthi-tn/MAX-Object-Detector.git
+(or)
+git remote set-url origin git@github.ibm.com:saishruthi-tn/MAX-Object-Detector.git
+git push origin master
+
+** Deleting DS Store **
+find . -name .DS_Store -print0 | xargs -0 git rm --ignore-unmatch
+git add .
+git commit -m '.DS_Store banished!'
+git push origin master
