@@ -2,6 +2,8 @@
 
 1. [Tar Commands](https://neverendingsecurity.wordpress.com/2015/04/13/linux-tar-commands-cheatsheet/)
 
+2. [Add binary to path](https://askubuntu.com/questions/440691/add-a-binary-to-my-path)
+
 
 ===========================================================================
 
